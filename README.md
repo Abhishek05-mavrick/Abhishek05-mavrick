@@ -1,18 +1,72 @@
-# 💫 About Me:
-Hi, I’m Abhishek 👋<br>A B.Tech student passionate about web development, UI/UX, and AI-driven systems.<br>I enjoy building smart, scalable solutions and turning ideas into real-world products.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Abhishek+👋;Web+Dev+%7C+UI%2FUX+%7C+AI+Enthusiast;Building+smart+things+that+scale" alt="Typing SVG" />
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.4.Abhishek_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek Ammanagi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekvk18op@gmail.com) 
+<h2 align="center">💫 About Me</h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek05-mavrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek05-mavrick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek05-mavrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  B.Tech student passionate about <strong>web development</strong>, <strong>beautiful UI/UX</strong>, and <strong>AI-powered systems</strong>.<br>
+  Turning ideas into clean, scalable products.<br><br>
+  <em>"Code clean. Design smart. Ship fast."</em>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Abhishek05-mavrick&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">🌐 Connect</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://instagram.com/a.4.Abhishek_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/Abhishek Ammanagi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abhishekvk18op@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/><br><br>
+
+  <!-- Backend / Data -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br><br>
+
+  <!-- AI / Design / Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</div>
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master.vercel.app/api?username=Abhishek05-mavrick&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Abhishek05-mavrick&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="Contribution Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=Abhishek05-mavrick&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="60%"/>
+</div>
+
+<h3 align="center">🏆 Trophies</h3>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Abhishek05-mavrick&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+<h2 align="center">👀 Profile Visits</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek05-mavrick&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-✨-blue?style=flat-square" alt="Thanks"/>
+</div>
